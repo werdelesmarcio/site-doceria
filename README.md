@@ -5,6 +5,15 @@ Projeto de conclusão de módulo do Curso de HTML+CSS Avançado, mostrando um ex
 
 _Repositório para o Projeto do Website Doces da Nay._
 
+## Captura de Telas
+
+<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0001.jpeg?raw=true" width =505 height=230 ><img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0002.jpeg?raw=true" width =505 height=230 >
+
+<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0003.jpeg?raw=true" width =505 height=230 ><img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0004.jpeg?raw=true" width =505 height=230 >
+
+<center> <img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0005.jpeg?raw=true" width =505 height=230 align="middle"> </center>
+
+
 ## Autor:
 * **Werdeles Marcio de C. Soares** - _Desenvolvedor_
 
