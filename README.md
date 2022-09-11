@@ -7,11 +7,15 @@ _Repositório para o Projeto do Website Doces da Nay._
 
 ## Captura de Telas
 
-<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0001.jpeg?raw=true" width =450 height=200 ><img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0002.jpeg?raw=true"  width =450 height=200 >
+<center> <img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0001.jpeg?raw=true" width =400 height=200 >
 
-<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0003.jpeg?raw=true"  width =450 height=200 ><img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0004.jpeg?raw=true"  width =450 height=200 >
+<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0002.jpeg?raw=true"  width =400 height=200 >
 
-<center> <img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0005.jpeg?raw=true"  width =450 height=200> </center>
+<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0003.jpeg?raw=true"  width =400 height=200 >
+
+<img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0004.jpeg?raw=true"  width =400 height=200 >
+
+ <img src = "https://github.com/werdelesmarcio/site-doceria/blob/main/prints/0005.jpeg?raw=true"  width =400 height=200> </center>
 
 
 ## Autor:
