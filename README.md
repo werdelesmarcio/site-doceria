@@ -3,10 +3,23 @@ Projeto de conclusão de módulo do Curso de HTML+CSS Avançado, mostrando um ex
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/20aa971e5e6bc37fd9f0/maintainability)](https://codeclimate.com/github/werdelesmarcio/site-doceria/maintainability)
 
-(https://codeclimate.com/github/werdelesmarcio/PyTCPScan/maintainability) <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan"> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan) <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan"> <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url/https/twitter.com/ScorpionInc?style=social">
+[![Test Coverage](https://api.codeclimate.com/v1/badges/20aa971e5e6bc37fd9f0/test_coverage)](https://codeclimate.com/github/werdelesmarcio/site-doceria/test_coverage)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/n943av308u6yiaed/branch/main?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/site-doceria/branch/main)
+
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_site-doceria&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_site-doceria)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_site-doceria&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_site-doceria)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_site-doceria&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_site-doceria)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_site-doceria&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_site-doceria)
+
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/site-doceria"> 
+
+<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/site-doceria"> 
 
 _Repositório para o Projeto do Website Doces da Nay._
-
 
 ## Autor:
 * **Werdeles Marcio de C. Soares** - _Desenvolvedor_
@@ -14,7 +27,6 @@ _Repositório para o Projeto do Website Doces da Nay._
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
 Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/site-doceria/blob/main/LICENSE) para obter mais detalhes.
-
 
 ## Contatos
 Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para werdelesmarcio@gmail.com. Obrigado!
